@@ -2,18 +2,16 @@
 title: "Princeton R Group"
 ---
 
-::: {style="float: right; position: relative; top: 0px;"}
-![Logo designed by Alex Hollinghead](images/princeton-r-group-favicon.png){fig-alt="Princeton R Group logo" fig-align="right" width="200"}
-:::
-
 Are you a graduate student, postdoc, faculty member, or research specialist working in R? Are you interested in sharing your work, expanding your network, and learning how others are using R in their work?
 
 The Princeton R Group ("Princeton tigeRs") hosts informal monthly lunch events where we hear from scholars about interesting applications of their work in R.
 
 Our events are supported by the [Data Driven Social Science Initiative (DDSS)](https://ddss.princeton.edu/events-and-workshops).
 
-**Join our listhost for more information!**
+**Join our listserv for more information!**
 
 -   Send an email (no title) to `listserv [at] lists.princeton.edu`. In the message box, type `SUBSCRIBE rgroup Your Full Name` (example: `SUBSCRIBE rgroup John Tukey`)
 
 -   You may also visit the Princeton [LISTSERV web interface](http://lists.princeton.edu/) to add yourself.
+
+![Logo designed by Alex Hollinghead](images/princeton-r-group-favicon.png){alt="Logo designed by Alex Hollinghead" fig-alt="Princeton R Group logo" fig-align="center" width="30%"}

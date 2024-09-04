@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "We started in Spring 2023 to showcase interesting applications of R in the social sciences. Since then, we have been co-organized by DDSS Graduate Fellows of Social Data Science and DDSS staff members.\nWe primarily focus on applied use cases of R in research, with a target audience of grad students and scholars around the university who use the programming language in their work. Our event attendees have included researchers from all over the university - representing the social sciences, natural sciences, and humanities divisions.\nNote that we do not currently provide introductory workshops in R as there are many resources around the university that provide excellent training (see below)."
+    "text": "We launched in Spring 2023 and since then, we have been co-organized by DDSS Graduate Fellows of Social Data Science and DDSS staff members. Learn more about our past events on our Events page!\nWe primarily focus on applied use cases of R in research, with a target audience of grad students and scholars who use the programming language in their work. Our event attendees have included researchers from all over the university - representing the social sciences, natural sciences, and humanities divisions.\nWe welcome R users of all levels to our events. However, because we focus on research use cases, our events tend to assume some working knowledge of R. Feel free to reach out to us if you have questions about an event.\nNote that we do not currently provide introductory workshops in R as there are many resources around the university that provide excellent training (see below)."
   },
   {
     "objectID": "about.html#learning-r",
@@ -32,14 +32,14 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "We are planning events for Fall 2024. Stay tuned!"
+    "text": "We are planning events for Fall 2024, with possible topics of simulation methods. spatial analysis, literature programming, differential privacy and R package development. Join our listserv to stay updated!"
   },
   {
     "objectID": "events.html#upcoming-events",
     "href": "events.html#upcoming-events",
     "title": "Events",
     "section": "",
-    "text": "We are planning events for Fall 2024. Stay tuned!"
+    "text": "We are planning events for Fall 2024, with possible topics of simulation methods. spatial analysis, literature programming, differential privacy and R package development. Join our listserv to stay updated!"
   },
   {
     "objectID": "events.html#past-events",
@@ -60,6 +60,6 @@
     "href": "index.html",
     "title": "Princeton R Group",
     "section": "",
-    "text": "Logo designed by Alex Hollinghead\n\n\n\nAre you a graduate student, postdoc, faculty member, or research specialist working in R? Are you interested in sharing your work, expanding your network, and learning how others are using R in their work?\nThe Princeton R Group (“Princeton tigeRs”) hosts informal monthly lunch events where we hear from scholars about interesting applications of their work in R.\nOur events are supported by the Data Driven Social Science Initiative (DDSS).\nJoin our listhost for more information!\n\nSend an email (no title) to listserv [at] lists.princeton.edu. In the message box, type SUBSCRIBE rgroup Your Full Name (example: SUBSCRIBE rgroup John Tukey)\nYou may also visit the Princeton LISTSERV web interface to add yourself."
+    "text": "Are you a graduate student, postdoc, faculty member, or research specialist working in R? Are you interested in sharing your work, expanding your network, and learning how others are using R in their work?\nThe Princeton R Group (“Princeton tigeRs”) hosts informal monthly lunch events where we hear from scholars about interesting applications of their work in R.\nOur events are supported by the Data Driven Social Science Initiative (DDSS).\nJoin our listserv for more information!\n\nSend an email (no title) to listserv [at] lists.princeton.edu. In the message box, type SUBSCRIBE rgroup Your Full Name (example: SUBSCRIBE rgroup John Tukey)\nYou may also visit the Princeton LISTSERV web interface to add yourself.\n\n\n\n\nLogo designed by Alex Hollinghead"
   }
 ]
