@@ -1,0 +1,51 @@
+---
+title: "Events"
+---
+
+## Upcoming Events
+
+We are planning events for Fall 2024. Stay tuned!
+
+## Past Events
+
+### Spring 2024
+
+No events this semester.
+
+### Fall 2023
+
+-   Workshop: Using ChatGPT and R for Effective Research and Teaching (Angela Li, SOC) - September 28, 2023
+
+-   Invited Speakers Talk: Formatted Optical Character Recognition (Zachary Bleemer, ECON) - October 24, 2023
+
+![](images/bleemer-talk.png){fig-align="center" width="606"}
+
+-   Invited Speakers Talk: Embedding Regression: Models for Context-Specific Description and Inference (Arthur Spirling, POL) - November 14, 2023
+
+![](images/spirling-talk.png){fig-align="center" width="600"}
+
+-   Lightning Talks - November 30, 2023
+
+    -   Quantitative Sociological Semantics and Conceptual Ethics (Zac Lim, SOC)
+
+    -   Running 100 Imputations on HPC Clusters (Muhammet Emre Coskun, SPIA)
+
+    -   Creating Effective Shiny Apps (Jamie Caldwell, HMEI)
+
+### Spring 2023
+
+-   Workshop: Introduction to R for Public Policy Applications (Kim Kreiss, SPIA) - February 10, 2023
+
+-   Workshop: Creating Engaging Data Visualizations in R with ggplot2 (Angela Li, SOC) - February 24, 2023
+
+-   Graduate Lightning Talks - March 24, 2023
+
+    -   Reproducible Coding Workflows (Varun Satish, SOC)
+
+    -   R for Humanitarian Data Collection (Noe Hinck, SPIA)
+
+    -   Developing a Shiny App for the Princeton Gym (John Kearns, SPIA)
+
+-   Invited Speakers Talk: Regression Discontinuity Analysis (Rocío Titiunik, POL) - April 5, 2023
+
+![](images/titiunik-talk.png){fig-align="center" width="600"}

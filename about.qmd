@@ -1,0 +1,25 @@
+---
+title: "About"
+---
+
+We started in Spring 2023 to showcase interesting applications of R in the social sciences. Since then, we have been co-organized by DDSS Graduate Fellows of Social Data Science and DDSS staff members.
+
+We primarily focus on **applied use cases of R in research**, with a target audience of grad students and scholars around the university who use the programming language in their work. Our event attendees have included researchers from all over the university - representing the social sciences, natural sciences, and humanities divisions.
+
+Note that we do not currently provide introductory workshops in R as there are many resources around the university that provide excellent training (see below).
+
+## Learning R?
+
+For more resources at Princeton for getting started with R, please check out the [Exploring R page](https://exploringr.princeton.edu/) put together by Research Computing (Carolina Roe-Raymond).
+
+We recommend the workshops and individual consulting through [Data and Statistical Services](https://library.princeton.edu/services/data-and-statistical-services), based in Stokes Library.
+
+Additionally, check out the [Getting Started in Data Analysis in R](https://libguides.princeton.edu/dss/R) library guide compiled by Economics Librarian Bobray Bordelon.
+
+## Current and past co-organizers
+
+The Princeton tigeRs co-organizers for 2024-2025 are DDSS Graduate Fellow Angela Li and DDSS Research Data Engineer Eric Manning.
+
+Our past co-organizers have been:
+
+-   2023-2024: Kim Kreiss (DDSS Grad Fellow) and Angela Li (DDSS Grad Fellow)

@@ -1,0 +1,7 @@
+---
+title: "Get Involved"
+---
+
+We are always looking for new speakers for the R Group!
+
+If you are interested in speaking for the R Group or getting involved in organizing, please fill out our [interest form](https://forms.gle/zrhrCdzXrnqwpz3t9).

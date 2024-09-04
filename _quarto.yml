@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Princeton R Group"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - events.qmd
+      - getinvolved.qmd
+  favicon: images/princeton-r-group-favicon.png
+  page-footer:
+    center:
+      - icon: github
+        href: https://github.com/princeton-r-group/princeton-r-group.github.io
+    right: |
+      This Website is built with ❤️ and [Quarto](https://quarto.org/)
+      
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+
+editor: visual
+
