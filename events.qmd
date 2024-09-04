@@ -4,7 +4,7 @@ title: "Events"
 
 ## Upcoming Events
 
-We are planning events for Fall 2024, with possible topics of simulation methods. spatial analysis, literature programming, differential privacy and R package development. Join our listserv to stay updated!
+We are planning events for Fall 2024, with possible topics of simulation methods, spatial analysis, literature programming, differential privacy and R package development. Join our listserv to stay updated!
 
 ## Past Events
 
