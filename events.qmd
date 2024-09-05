@@ -18,11 +18,11 @@ No events this semester.
 
 -   Invited Speakers Talk: Formatted Optical Character Recognition (Zachary Bleemer, ECON) - October 24, 2023
 
-![](images/bleemer-talk.png){fig-align="center" width="606"}
+![](images/bleemer-talk.png){fig-alt="Poster for R Group talk from Economics Professor Zachary Bleemer" fig-align="center" width="606"}
 
 -   Invited Speakers Talk: Embedding Regression: Models for Context-Specific Description and Inference (Arthur Spirling, POL) - November 14, 2023
 
-![](images/spirling-talk.png){fig-align="center" width="600"}
+![](images/spirling-talk.png){fig-alt="Poster for R Group talk from Politics Professor Arthur Spirling" fig-align="center" width="600"}
 
 -   Lightning Talks - November 30, 2023
 
@@ -48,4 +48,4 @@ No events this semester.
 
 -   Invited Speakers Talk: Regression Discontinuity Analysis (Rocío Titiunik, POL) - April 5, 2023
 
-![](images/titiunik-talk.png){fig-align="center" width="600"}
+![](images/titiunik-talk.png){fig-alt="Poster for R Group talk from Politics Professor Rocio Titiunik" fig-align="center" width="600"}
