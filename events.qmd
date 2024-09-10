@@ -4,7 +4,13 @@ title: "Events"
 
 ## Upcoming Events
 
-We are planning events for Fall 2024, with possible topics of simulation methods, spatial analysis, literature programming, differential privacy, and R package development. Join our listserv to stay updated!
+Below are a preview of our events for Fall 2024, RSVP links to come. [**Join our listserv**](https://princeton-r-group.github.io/getinvolved.html) **to stay updated!**
+
+-   Invited Speakers Talk: Correcting Downstream Inferences using Large Language Model Annotations (or other predicted variables) with Design-Based Supervised Learning (Brandon Stewart, SOC) - September 25, 2024, 12:15pm
+
+-   Invited Speakers Talk: Tyler Simko (POL) - October 23, 2024, 12:15pm
+
+-   Lightning Talks - likely November 11, 2024, date and time TBD
 
 ## Past Events
 

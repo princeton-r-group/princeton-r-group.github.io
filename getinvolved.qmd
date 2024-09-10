@@ -2,7 +2,17 @@
 title: "Get Involved"
 ---
 
-We are always looking for new speakers for the R Group!
+**Join our listserv for more information!**
+
+-   Send an email (no title) to `listserv [at] lists.princeton.edu`. In the message box, type `SUBSCRIBE rgroup Your Full Name` (example: `SUBSCRIBE rgroup John Tukey`)
+
+-   You may also visit the Princeton [LISTSERV web interface](http://lists.princeton.edu/) to add yourself.
+
+![Logo designed by Alex Hollinghead](images/princeton-r-group-favicon.png){alt="Logo designed by Alex Hollinghead" fig-alt="Princeton R Group logo" fig-align="center" width="30%"}
+
+**Give a lightning talk to the R Group!**
+
+We are always looking for new speakers for the R Group! Lightning talks (15 min) are a great way to showcase how you're using R in your research, highlight a new R package, or demonstrate an interesting new tool.
 
 If you are interested in speaking for the R Group or getting involved in organizing, please fill out our [interest form](https://forms.gle/zrhrCdzXrnqwpz3t9).
 
