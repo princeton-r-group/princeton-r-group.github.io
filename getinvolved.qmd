@@ -8,7 +8,7 @@ title: "Get Involved"
 
 -   You may also visit the Princeton [LISTSERV web interface](http://lists.princeton.edu/) to add yourself.
 
-![Logo designed by Alex Hollinghead](images/princeton-r-group-favicon.png){alt="Logo designed by Alex Hollinghead" fig-alt="Princeton R Group logo" fig-align="center" width="30%"}
+![Logo designed by Alex Hollinghead](images/princeton-r-group-favicon.png){fig-alt="Princeton R Group logo" fig-align="center" width="30%"}
 
 **Give a lightning talk to the R Group!**
 
