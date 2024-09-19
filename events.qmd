@@ -19,7 +19,9 @@ Below are a preview of our upcoming events for Fall 2024. [**Join our listserv**
 
 ### Spring 2024
 
-No events this semester.
+-   Workshop: [Advanced Geospatial I - Analysis with R](https://ddss.princeton.edu/events/2024/advanced-geospatial-i-analysis-r) (Kim Kreiss, SPIA) - Feburary 24, 2024
+
+    -   Link to [Kim's workshop materials](https://github.com/kimberlykreiss/DDSS-geospatial-workshop/tree/master) on Github
 
 ### Fall 2023
 

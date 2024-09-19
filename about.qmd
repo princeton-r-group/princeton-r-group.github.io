@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-We launched in [Spring 2023](https://princeton-r-group.github.io/events.html#spring-2023). Since then, we have been co-organized by DDSS Graduate Fellows of Social Data Science and DDSS staff members.
+We launched in [Spring 2023](https://princeton-r-group.github.io/events.html#spring-2023) as an initiative between graduate students Kim Kreiss (SPIA) and Angela Li (SOC). Since then, we have been co-organized by DDSS Graduate Fellows of Social Data Science and DDSS staff members.
 
 We primarily focus on **applied use cases of R in research**, with a target audience of grad students and scholars who use the programming language in their work.
 
@@ -24,7 +24,7 @@ Additionally, check out the [Getting Started in Data Analysis in R](https://libg
 
 ## Current and past co-organizers
 
-The Princeton tigeRs co-organizers for 2024-2025 are DDSS Graduate Fellow Angela Li and DDSS Research Data Engineer Eric Manning.
+The Princeton tigeRs co-organizers for 2024-2025 are DDSS Graduate Fellow Angela Li and DDSS Research Data Engineer Eric Manning. We also thank [DDSS staff members](https://ddss.princeton.edu/staff-and-scholars) Karyn Gerecitano and Jess Hollinger for their support with events.
 
 Our past co-organizers have been:
 
