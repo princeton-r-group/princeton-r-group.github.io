@@ -22,7 +22,7 @@ Below are our upcoming events for Fall 2024. [**Join our listserv**](https://pri
 
 -   Invited Speakers Talk: Correcting Downstream Inferences using Large Language Model Annotations (or other predicted variables) with Design-Based Supervised Learning (Professor Brandon Stewart, SOC)
     -   September 25, 2024, 12:15pm, Louis Simpson 271
-    -   Link to the [**`{dsl}` R package documentation**](http://naokiegami.com/dsl/)
+    -   Link to the [**`{dsl}` R package documentation**](http://dsl.software/)
 
 ![](images/stewart-talk.png){fig-alt="Poster for R Group talk from Sociology Professor Brandon Stewart" fig-align="center" width="606"}
 
