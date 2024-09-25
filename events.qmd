@@ -4,7 +4,7 @@ title: "Events"
 
 ## Upcoming Events
 
-Below are a preview of our upcoming events for Fall 2024. [**Join our listserv**](https://princeton-r-group.github.io/getinvolved.html) **to stay updated!**
+Below are our upcoming events for Fall 2024. [**Join our listserv**](https://princeton-r-group.github.io/getinvolved.html) **to stay updated!**
 
 -   Invited Speakers Talk: Correcting Downstream Inferences using Large Language Model Annotations (or other predicted variables) with Design-Based Supervised Learning (Professor Brandon Stewart, SOC)
     -   September 25, 2024, 12:15pm, Louis Simpson 271 - [**RSVP link**](https://evt.to/egmahoihw)
@@ -17,7 +17,10 @@ Below are a preview of our upcoming events for Fall 2024. [**Join our listserv**
 
 ![](images/simko-talk.png){fig-alt="Poster for R Group talk from Politics Postdoctoral Research Associate Tyler Simko" fig-align="center" width="606"}
 
--   Lightning Talks - likely Monday November 11, 2024, JRR A01 - [**please sign up here**](https://docs.google.com/forms/d/e/1FAIpQLScRmawYFmTY3WHxHtpRf7td5aUBcMqpyI35_uFPnggiL3XQlg/viewform) if you'd like to give a talk (10-15 min)!
+-   Lightning Talks - likely Monday November 11, 2024, in JRR A01
+
+    -   [**Please sign up here**](https://docs.google.com/forms/d/e/1FAIpQLScRmawYFmTY3WHxHtpRf7td5aUBcMqpyI35_uFPnggiL3XQlg/viewform) if you'd like to give a talk (max 10-15 min)!
+
 
 ## Past Events
 

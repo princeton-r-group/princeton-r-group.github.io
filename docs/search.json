@@ -11,7 +11,14 @@
     "href": "about.html#learning-r",
     "title": "About",
     "section": "Learning R?",
-    "text": "Learning R?\nFor more resources at Princeton for getting started with R, please check out the Exploring R page.\n\nThanks to the work of Sorat Tungkasiri (Digital Learning Lab), Alex Hollinghead (Digital Learning Lab), Oscar Torres-Reyna (Economics), and Carolina Roe-Raymond (Princeton Institute for Computational Science and Engineering and Research Computing) for this excellent resource!\n\nWe recommend the workshops and individual consulting through Data and Statistical Services, based in Stokes Library.\nAdditionally, check out the Getting Started in Data Analysis in R library guide compiled by Economics Librarian Bobray Bordelon."
+    "text": "Learning R?\nFor more resources at Princeton for getting started with R, please check out the Exploring R page.\n\nThanks to the work of Sorat Tungkasiri (Digital Learning Lab), Alex Hollinghead (Digital Learning Lab), Oscar Torres-Reyna (Economics), and Carolina Roe-Raymond (Princeton Institute for Computational Science and Engineering and Research Computing) for this excellent resource!\n\nWe recommend the workshops and individual consulting through Data and Statistical Services, based in Stokes Library. A list of workshops offered across campus in Fall 2024 is below.\nAdditionally, check out the Getting Started in Data Analysis in R library guide compiled by Economics Librarian Bobray Bordelon."
+  },
+  {
+    "objectID": "about.html#events-from-campus-partners",
+    "href": "about.html#events-from-campus-partners",
+    "title": "About",
+    "section": "Events from campus partners",
+    "text": "Events from campus partners\n\nResearch Computing\n\nUsing R on the Research Computing Clusters\n\nTuesday, October 8 at 3:00-4:30 PM\nLocation: A15 Fine Hall (Fine Visualization Laboratory)\nInstructor: Galen Collier, Director of Researcher Engagement, Research Computing\n\nWorking with R tidyr and dplyr Packages\n\nWednesday, October 23, 2024 at 1:30-3:00 PM\nLocation: Stokes Viz Hub - Donald E. Stokes Library, Room 070\nInstructor: Boriana Pratt, Statistical Programmer, Office of Population Research\n\n\n\n\nStokes Viz Hub\n\nIntro to R for Social Sciences\n\nMonday, October 21, 2024 at 3:00-4:30 PM\nLocation: Stokes Viz Hub - Donald E. Stokes Library, Room 070\nInstructor: Ameet Doshi, Head Stokes Library\n\nIntro to R for Social Sciences\n\nMonday, October 28, 2024 at 3:00-4:30 PM\nLocation: Stokes Viz Hub - Donald E. Stokes Library, Room 070\nInstructor: Ameet Doshi, Head Stokes Library\n\nData Visualization with R - Introduction to ggplot\n\nNovember 6, 2024 at 1:30-3:00 PM\nLocation: Stokes Viz Hub - Donald E. Stokes Library, Room 070\nInstructors: Ofira Schwartz, Social Sciences Data & Sociology Librarian\n\n\n\n\nData and Statistical Services\n\nIntroduction to Data Analysis with R\n\nFriday, September 27, 2024 at 10:30 AM-12:00 PM\nLocation: Firestone Library - A-6-F\n\nIntroduction to Data Analysis with R\n\nFriday, October 4, 2024 at 1:30-3:00 PM\nLocation: Firestone Library - B-6-F\n\nIntroduction to Data Analysis with R\n\nFriday, November 1, 2024 at 10:30 AM-12:00 PM\nLocation: Firestone Library - A-6-F"
   },
   {
     "objectID": "about.html#current-and-past-co-organizers",
@@ -32,14 +39,14 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Below are a preview of our upcoming events for Fall 2024. Join our listserv to stay updated!\n\nInvited Speakers Talk: Correcting Downstream Inferences using Large Language Model Annotations (or other predicted variables) with Design-Based Supervised Learning (Professor Brandon Stewart, SOC)\n\nSeptember 25, 2024, 12:15pm, Louis Simpson 271 - RSVP link\n\n\n\n\n\n\n\n\nInvited Speakers Talk: Studying Spatial Inequality Using Algorithmic Simulations in R (Tyler Simko, POL)\n\nOctober 23, 2024, 12:15pm, Louis Simpson 271 - RSVP link\n\n\n\n\n\n\n\n\nLightning Talks - likely Monday November 11, 2024, JRR A01 - please sign up here if you’d like to give a talk (10-15 min)!"
+    "text": "Below are our upcoming events for Fall 2024. Join our listserv to stay updated!\n\nInvited Speakers Talk: Correcting Downstream Inferences using Large Language Model Annotations (or other predicted variables) with Design-Based Supervised Learning (Professor Brandon Stewart, SOC)\n\nSeptember 25, 2024, 12:15pm, Louis Simpson 271 - RSVP link\n\n\n\n\n\n\n\n\nInvited Speakers Talk: Studying Spatial Inequality Using Algorithmic Simulations in R (Tyler Simko, POL)\n\nOctober 23, 2024, 12:15pm, Louis Simpson 271 - RSVP link\n\n\n\n\n\n\n\n\nLightning Talks - likely Monday November 11, 2024, in JRR A01\n\nPlease sign up here if you’d like to give a talk (max 10-15 min)!"
   },
   {
     "objectID": "events.html#upcoming-events",
     "href": "events.html#upcoming-events",
     "title": "Events",
     "section": "",
-    "text": "Below are a preview of our upcoming events for Fall 2024. Join our listserv to stay updated!\n\nInvited Speakers Talk: Correcting Downstream Inferences using Large Language Model Annotations (or other predicted variables) with Design-Based Supervised Learning (Professor Brandon Stewart, SOC)\n\nSeptember 25, 2024, 12:15pm, Louis Simpson 271 - RSVP link\n\n\n\n\n\n\n\n\nInvited Speakers Talk: Studying Spatial Inequality Using Algorithmic Simulations in R (Tyler Simko, POL)\n\nOctober 23, 2024, 12:15pm, Louis Simpson 271 - RSVP link\n\n\n\n\n\n\n\n\nLightning Talks - likely Monday November 11, 2024, JRR A01 - please sign up here if you’d like to give a talk (10-15 min)!"
+    "text": "Below are our upcoming events for Fall 2024. Join our listserv to stay updated!\n\nInvited Speakers Talk: Correcting Downstream Inferences using Large Language Model Annotations (or other predicted variables) with Design-Based Supervised Learning (Professor Brandon Stewart, SOC)\n\nSeptember 25, 2024, 12:15pm, Louis Simpson 271 - RSVP link\n\n\n\n\n\n\n\n\nInvited Speakers Talk: Studying Spatial Inequality Using Algorithmic Simulations in R (Tyler Simko, POL)\n\nOctober 23, 2024, 12:15pm, Louis Simpson 271 - RSVP link\n\n\n\n\n\n\n\n\nLightning Talks - likely Monday November 11, 2024, in JRR A01\n\nPlease sign up here if you’d like to give a talk (max 10-15 min)!"
   },
   {
     "objectID": "events.html#past-events",
