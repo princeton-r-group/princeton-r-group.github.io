@@ -11,9 +11,13 @@ Below are a preview of our upcoming events for Fall 2024. [**Join our listserv**
 
 ![](images/stewart-talk.png){fig-alt="Poster for R Group talk from Sociology Professor Brandon Stewart" fig-align="center" width="606"}
 
--   Invited Speakers Talk: Tyler Simko (POL) - October 23, 2024, 12:15pm
+-   Invited Speakers Talk: Studying Spatial Inequality Using Algorithmic Simulations in R (Tyler Simko, POL)
 
--   Lightning Talks - likely week of November 11, 2024, date and time TBD
+    -   October 23, 2024, 12:15pm, Louis Simpson 271 - [**RSVP link**](https://evt.to/egagehhgw)
+
+![](images/simko-talk.png){fig-alt="Poster for R Group talk from Politics Postdoctoral Research Associate Tyler Simko" fig-align="center" width="606"}
+
+-   Lightning Talks - likely Monday November 11, 2024, JRR A01 - [**please sign up here**](https://docs.google.com/forms/d/e/1FAIpQLScRmawYFmTY3WHxHtpRf7td5aUBcMqpyI35_uFPnggiL3XQlg/viewform) if you'd like to give a talk (10-15 min)!
 
 ## Past Events
 
