@@ -15,6 +15,7 @@ Below are our upcoming events for Fall 2024. [**Join our listserv**](https://pri
       -   *In this talk, I will introduce through examples some options in the R ecosystem for visualizing different types of geospatial data, with a focus on interactive tools for exploration and presentation in empirical work.*
   -   **Leveraging Multilanguage ALC Embeddings for Regression Analysis (Elisa Wirsching, POL)**
       -   *Word embeddings are now a vital resource for social science research. Unfortunately, it can be difficult to obtain high quality embeddings for non-English languages, and it may be computationally expensive to do so. I present ALC embedding resources that are adaptable to scholars’ idiosyncratic settings and show how to integrate them in a regression-style framework.*
+      - [Link to demo](https://princeton-r-group.github.io/talks/2024/wirshing-demo_20241111.html)
   -   **Using Exponential Random Graph Models for Inferential Network Analysis (Ben Rosche, SOC)**
       -   This talk introduces exponential random graph models (using the statnet and ergm R packages) for modeling network formation. I show how these models can help uncover the micro-level mechanisms that shape macro-level network structures.
 
