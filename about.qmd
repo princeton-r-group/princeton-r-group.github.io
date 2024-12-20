@@ -22,7 +22,7 @@ We recommend the workshops and individual consulting through [Data and Statistic
 
 Additionally, check out the [Getting Started in Data Analysis in R](https://libguides.princeton.edu/dss/R) library guide compiled by Economics Librarian Bobray Bordelon.
 
-## Events from campus partners
+## Fall 2024 trainings from campus partners
 
 ### Research Computing
 

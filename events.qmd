@@ -4,20 +4,13 @@ title: "Events"
 
 ## Upcoming Events
 
-Below are our upcoming events for Fall 2024. [**Join our listserv**](https://princeton-r-group.github.io/getinvolved.html) **to stay updated!**
+Below are the tentative dates and speakers for our Spring 2025 events. All events take place from 12:15-1:15pm. [**Join our listserv**](https://princeton-r-group.github.io/getinvolved.html) **to stay updated!**
 
--   Lightning Talks - Monday November 11, 2024, in JRR A01 - [**RSVP link**](https://evt.to/egishodmw)
+-   Invited Speakers Talk: Modeling Aggregation Processes with Multilevel Regression: Applications in Spatial and Network Analysis ([Ben Rosche](https://benrosche.com/), SOC): **Monday, February 17, 2025**
 
-![](images/lightning-20241023.png){fig-alt="Poster for R Group lightning talks from Economics, Politics, and Sociology grad, postdoc, and fellows speakers" fig-align="center" width="600"}
+-   Invited Speakers Talk: Building Open-Source Scientific Software ([Noam Ross](https://www.noamross.net/), director of rOpenSci): **Wednesday, March 26, 2025**
 
-
-  -   **Seeing Like a Statistician: Interactive Geovisualization from R (Andre Alcantara, ECON)**
-      -   *In this talk, I will introduce through examples some options in the R ecosystem for visualizing different types of geospatial data, with a focus on interactive tools for exploration and presentation in empirical work.*
-  -   **Leveraging Multilanguage ALC Embeddings for Regression Analysis (Elisa Wirsching, POL)**
-      -   *Word embeddings are now a vital resource for social science research. Unfortunately, it can be difficult to obtain high quality embeddings for non-English languages, and it may be computationally expensive to do so. I present ALC embedding resources that are adaptable to scholars’ idiosyncratic settings and show how to integrate them in a regression-style framework.*
-      - [Link to demo](https://princeton-r-group.github.io/talks/2024/wirshing-demo_20241111.html)
-  -   **Using Exponential Random Graph Models for Inferential Network Analysis (Ben Rosche, SOC)**
-      -   This talk introduces exponential random graph models (using the statnet and ergm R packages) for modeling network formation. I show how these models can help uncover the micro-level mechanisms that shape macro-level network structures.
+-   Spring Lightning Talks: **Wednesday, April 23, 2025**
 
 ## Past Events
 
@@ -34,6 +27,18 @@ Below are our upcoming events for Fall 2024. [**Join our listserv**](https://pri
     -   October 23, 2024, 12:15pm, Louis Simpson 271
 
 ![](images/simko-talk.png){fig-alt="Poster for R Group talk from Politics Postdoctoral Research Associate Tyler Simko" fig-align="center" width="606"}
+
+-   Lightning Talks - Monday November 11, 2024, in JRR A01 - [**RSVP link**](https://evt.to/egishodmw)
+
+![](images/lightning-20241023.png){fig-alt="Poster for R Group lightning talks from Economics, Politics, and Sociology grad, postdoc, and fellows speakers" fig-align="center" width="600"}
+
+-   **Seeing Like a Statistician: Interactive Geovisualization from R (Andre Alcantara, ECON)**
+    -   *In this talk, I will introduce through examples some options in the R ecosystem for visualizing different types of geospatial data, with a focus on interactive tools for exploration and presentation in empirical work.*
+-   **Leveraging Multilanguage ALC Embeddings for Regression Analysis (Elisa Wirsching, POL)**
+    -   *Word embeddings are now a vital resource for social science research. Unfortunately, it can be difficult to obtain high quality embeddings for non-English languages, and it may be computationally expensive to do so. I present ALC embedding resources that are adaptable to scholars’ idiosyncratic settings and show how to integrate them in a regression-style framework.*
+    -   [Link to demo](https://princeton-r-group.github.io/talks/2024/wirshing-demo_20241111.html)
+-   **Using Exponential Random Graph Models for Inferential Network Analysis (Ben Rosche, SOC)**
+    -   This talk introduces exponential random graph models (using the statnet and ergm R packages) for modeling network formation. I show how these models can help uncover the micro-level mechanisms that shape macro-level network structures.
 
 ### Spring 2024
 
