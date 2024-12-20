@@ -8,7 +8,7 @@ Below are the tentative dates and speakers for our Spring 2025 events. All event
 
 -   Invited Speakers Talk: Modeling Aggregation Processes with Multilevel Regression: Applications in Spatial and Network Analysis ([Ben Rosche](https://benrosche.com/), SOC): **Monday, February 17, 2025**
 
--   Invited Speakers Talk: Building Open-Source Scientific Software ([Noam Ross](https://www.noamross.net/), director of rOpenSci): **Wednesday, March 26, 2025**
+-   Invited Speakers Talk: Building Open-Source Scientific Software ([Noam Ross](https://www.noamross.net/), director of [rOpenSci](https://ropensci.org/)): **Wednesday, March 26, 2025**
 
 -   Spring Lightning Talks: **Wednesday, April 23, 2025**
 
