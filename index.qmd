@@ -6,7 +6,7 @@ Are you a graduate student, postdoc, faculty member, or research specialist work
 
 The Princeton R Group ("Princeton tigeRs") hosts informal monthly lunch events where we hear from scholars about interesting applications of their work in R. Learn more about our upcoming talks on our [Events](https://princeton-r-group.github.io/events.html) page and [join our listserv](https://princeton-r-group.github.io/getinvolved.html) to stay updated!
 
-**Our next R Group meeting will be on** **Monday, February 17, 2025**. Dates and details for our spring events can be found on our [Events page](https://princeton-r-group.github.io/events.html).
+**Our next R Group meeting will be on** **Wednesday, March 26, 2025**. Dates and details for our spring events can be found on our [Events page](https://princeton-r-group.github.io/events.html).
 
 We are generously supported by the [Data Driven Social Science Initiative (DDSS)](https://ddss.princeton.edu/events-and-workshops).
 
