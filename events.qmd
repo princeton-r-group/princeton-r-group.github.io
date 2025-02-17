@@ -4,13 +4,23 @@ title: "Events"
 
 ## Upcoming Events
 
-Below are the tentative dates and speakers for our Spring 2025 events. All events take place from 12:15-1:15pm. [**Join our listserv**](https://princeton-r-group.github.io/getinvolved.html) **to stay updated!**
+Below are the dates and speakers for our Spring 2025 events. All events take place from 12:15-1:15pm. [**Join our listserv**](https://princeton-r-group.github.io/getinvolved.html) **to stay updated!**
 
--   Invited Speakers Talk: Modeling Aggregation Processes with Multilevel Regression: Applications in Spatial and Network Analysis ([Ben Rosche](https://benrosche.com/), SOC): **Monday, February 17, 2025**
+-   Invited Speakers Talk: Modeling Aggregation Processes with Multilevel Regression: Applications in Spatial and Network Analysis ([Ben Rosche](https://benrosche.com/), SOC): **Monday, February 17, 2025 - [Register here!](https://evt.to/euuhhosaw)**
 
--   Invited Speakers Talk: Building Open-Source Scientific Software ([Noam Ross](https://www.noamross.net/), director of [rOpenSci](https://ropensci.org/)): **Wednesday, March 26, 2025**
+![](images/rosche-talk.png){width="600"}
+
+-   Invited Speakers Talk: Building Open-Source Scientific Software ([Noam Ross](https://www.noamross.net/), director of [rOpenSci](https://ropensci.org/)): **Wednesday, March 26, 2025,** 12:15-1:15 pm
+
+    -   Location: [Louis A. Simpson International Building, Room 271](#0)
+
+    -   [**Register here!**](https://evt.to/euuhhosow)
 
 -   Spring Lightning Talks: **Wednesday, April 23, 2025**
+
+    -   Location: [Louis A. Simpson International Building, Room 271](#0)
+
+    -   [**Register here!**](https://evt.to/eummihuhw)
 
 ## Past Events
 
