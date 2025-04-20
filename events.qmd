@@ -6,28 +6,33 @@ title: "Events"
 
 Below are the dates and speakers for our Spring 2025 events. All events take place from 12:15-1:15pm. [**Join our listserv**](https://princeton-r-group.github.io/getinvolved.html) **to stay updated!**
 
--   Invited Speakers Talk: Building Open-Source Scientific Software ([Noam Ross](https://www.noamross.net/), director of [rOpenSci](https://ropensci.org/)): **Wednesday, March 26, 2025,** 12:15-1:15 pm
-
-    -   Location: [Louis A. Simpson International Building, Room 271](#0)
-
-    -   [**Register here!**](https://evt.to/euuhhosow)
-
 -   Spring Lightning Talks: **Wednesday, April 23, 2025**
 
     -   Location: [Louis A. Simpson International Building, Room 271](#0)
 
     -   [**Register here!**](https://evt.to/eummihuhw)
 
+![](images/lightning-20250423.png){fig-alt="Poster for R Group talk from April 2025 Lightning Talks" width="600"}
+
 ## Past Events
 
 ### Spring 2025
 
 -   Invited Speakers Talk: Modeling Aggregation Processes with Multilevel Regression: Applications in Spatial and Network Analysis ([Ben Rosche](https://benrosche.com/), SOC)
+
     -   Monday, February 17, 2025, 12:15pm, JRR A97
     -   Link to Ben's slides and R demo materials: [**tinyurl.com/benrosche**](tinyurl.com/benrosche)
     -   Link to Ben's [**`{rmm}` R package documentation**](https://benrosche.github.io/rmm/)
 
-![](images/rosche-talk.png){width="600"}
+    ![](images/rosche-talk.png){width="600"}
+
+<!-- -->
+
+-   Invited Speakers Talk: Building Open-Source Scientific Software ([Noam Ross](https://www.noamross.net/), director of [rOpenSci](https://ropensci.org/)):
+
+    -   Wednesday, March 26, 2025, 12:15-1:15 pm, Simpson 271
+
+        ![](images/ross-talk.png){width="601"}
 
 ### Fall 2024
 
