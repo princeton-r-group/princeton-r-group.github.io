@@ -22,59 +22,6 @@ We recommend the workshops and individual consulting through [Data and Statistic
 
 Additionally, check out the [Getting Started in Data Analysis in R](https://libguides.princeton.edu/dss/R) library guide compiled by Economics Librarian Bobray Bordelon.
 
-## Fall 2024 trainings from campus partners
-
-### Research Computing
-
--   [**Using R on the Research Computing Clusters**](https://my.princeton.edu/click?email_links_id=50959&member_id=14727542)
-
-    -   Tuesday, October 8 at 3:00-4:30 PM
-    -   Location: A15 Fine Hall (Fine Visualization Laboratory)
-    -   Instructor: Galen Collier, Director of Researcher Engagement, Research Computing
-
--   [**Working with R tidyr and dplyr Packages**](https://libcal.princeton.edu/calendar/events/Rtidyversef2024)
-
-    -   Wednesday, October 23, 2024 at 1:30-3:00 PM
-    -   Location: Stokes Viz Hub - Donald E. Stokes Library, Room 070
-    -   Instructor: Boriana Pratt, Statistical Programmer, Office of Population Research
-
-### Stokes Viz Hub
-
--   [Intro to R for Social Sciences](https://libcal.princeton.edu/calendar/events/Rintroaf2024)
-
-    -   Monday, October 21, 2024 at 3:00-4:30 PM
-    -   Location: Stokes Viz Hub - Donald E. Stokes Library, Room 070
-    -   Instructor: Ameet Doshi, Head Stokes Library
-
--   [Intro to R for Social Sciences](https://libcal.princeton.edu/calendar/events/Rintrobf2024)
-
-    -   Monday, October 28, 2024 at 3:00-4:30 PM
-    -   Location: Stokes Viz Hub - Donald E. Stokes Library, Room 070
-    -   Instructor: Ameet Doshi, Head Stokes Library
-
--   [Data Visualization with R - Introduction to ggplot](https://libcal.princeton.edu/calendar/events/Rggplotf2024)
-
-    -   November 6, 2024 at 1:30-3:00 PM
-    -   Location: Stokes Viz Hub - Donald E. Stokes Library, Room 070
-    -   Instructors: Ofira Schwartz, Social Sciences Data & Sociology Librarian
-
-### Data and Statistical Services
-
--   [Introduction to Data Analysis with R](https://libcal.princeton.edu/event/12987209)
-
-    -   Friday, September 27, 2024 at 10:30 AM-12:00 PM
-    -   Location: Firestone Library - A-6-F
-
--   [Introduction to Data Analysis with R](https://libcal.princeton.edu/event/12987525)
-
-    -   Friday, October 4, 2024 at 1:30-3:00 PM
-    -   Location: Firestone Library - B-6-F
-
--   [Introduction to Data Analysis with R](https://libcal.princeton.edu/event/12987325)
-
-    -   Friday, November 1, 2024 at 10:30 AM-12:00 PM
-    -   Location: Firestone Library - A-6-F
-
 ## Current and past co-organizers
 
 The Princeton tigeRs co-organizers for 2024-2025 are DDSS Graduate Fellow Angela Li and DDSS Research Data Engineer Eric Manning. We also thank [DDSS staff members](https://ddss.princeton.edu/staff-and-scholars) Karyn Gerecitano and Jess Hollinger for their support with events.
